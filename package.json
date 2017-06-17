@@ -1,0 +1,22 @@
+{
+  "name": "tshw",
+  "version": "1.0.0",
+  "description": "TypeScript Hellow World",
+  "main": "jsdj",
+  "scripts": {
+    "test": "hdu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hdu"
+  },
+  "keywords": [
+    "hjdif"
+  ],
+  "author": "jid",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "tsc": "^1.20150623.0"
+  }
+}
